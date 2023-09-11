@@ -70,7 +70,7 @@
 - Created an interactive data visualization dashboard using Tableau, presenting key performance metrics to support decision-making and to dissect business continuity trends in St. Petersburg's commercial corridors.
 - Visualized trends, patterns, and correlations in client data, leading to actionable insights.
 <div align="center">
-    <img src="/assets/stpete.png.png" width="50%">
+    <img src="/assets/stpete.png" width="50%">
 </div>
 
 **Cloud-based Data Integration Project**
