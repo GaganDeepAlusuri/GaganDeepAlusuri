@@ -55,6 +55,9 @@
 
 - Utilized forecasting models to accurately predict student numbers with an average absolute percentage error of 3%, reducing the number of emergency food orders by 10% and making sure we can identify reasons for subscription renewal.
 - Applied R, Facebook's Prophet, and ARIMA models to analyze four years of USF Feed-a-Bull pantry survey data (2018-2022), yielding a precise forecast of a 25% upsurge in future visitor numbers post-pandemic.
+<div align="center">
+    <img src="/assets/feedabull.png" width="50%">
+</div>
 
 **Predictive Modeling for Customer Churn**
 
@@ -66,7 +69,9 @@
 
 - Created an interactive data visualization dashboard using Tableau, presenting key performance metrics to support decision-making and to dissect business continuity trends in St. Petersburg's commercial corridors.
 - Visualized trends, patterns, and correlations in client data, leading to actionable insights.
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+<div align="center">
+    <img src="/assets/stpete.png.png" width="50%">
+</div>
 
 **Cloud-based Data Integration Project**
 
