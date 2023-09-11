@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://www.valamis.com/wp-content/uploads/2022/09/hr-analytics.png" alt="Header Image">
+    <h1 style="font-size: 36px;">VENKATA SAI GAGAN DEEP ALUSURI</h1>
 </div>
 
-# VENKATA SAI GAGAN DEEP ALUSURI
+
 <div align="center">
     📞 (656) 216-4402 | 📧 alusurigagandeep@gmail.com
     <br>
@@ -47,11 +47,13 @@
 
 - Conducted an exhaustive analysis of life expectancy disparities across US counties, employing advanced statistical methods (Using R) such as multiple regression and multi-level modeling. Uncovered a substantial average decrease of 11.3 years in life expectancy nationwide.
 - Determined statistically significant differences in life expectancy rates between various county-level socio-economic groups, including a 6.5-year gap between the highest and lowest quartiles.
+ ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 **Forecasting Student Numbers at Feed-A-Bull Food Pantry**
 
 - Utilized forecasting models to accurately predict student numbers with an average absolute percentage error of 3%, reducing the number of emergency food orders by 10% and making sure we can identify reasons for subscription renewal.
 - Applied R, Facebook's Prophet, and ARIMA models to analyze four years of USF Feed-a-Bull pantry survey data (2018-2022), yielding a precise forecast of a 25% upsurge in future visitor numbers post-pandemic.
+  ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 **Predictive Modeling for Customer Churn**
 
@@ -63,12 +65,9 @@
 
 - Created an interactive data visualization dashboard using Tableau, presenting key performance metrics to support decision-making and to dissect business continuity trends in St. Petersburg's commercial corridors.
 - Visualized trends, patterns, and correlations in client data, leading to actionable insights.
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 **Cloud-based Data Integration Project**
 
 - Designed and implemented a cloud-based data integration solution to consolidate data from multiple sources, resulting in a 30% reduction in data processing time.
 - Utilized AWS and Azure platforms for data storage and processing.
-
-Feel free to reach out for collaboration, networking, or any inquiries.
-
-*Note: This README.md is a markdown representation of your resume for GitHub. You can use this as a template and customize it further as needed.*
