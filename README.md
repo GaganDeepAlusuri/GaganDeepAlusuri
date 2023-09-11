@@ -1,6 +1,5 @@
+# VENKATA SAI GAGAN DEEP ALUSURI
 
-
-                          # VENKATA SAI GAGAN DEEP ALUSURI
 <div align="center">
     📞 (656) 216-4402 | 📧 alusurigagandeep@gmail.com
     <br>
