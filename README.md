@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://www.valamis.com/wp-content/uploads/2022/09/hr-analytics.png" alt="Header Image">
-</div>
 
-# VENKATA SAI GAGAN DEEP ALUSURI
+
+                          # VENKATA SAI GAGAN DEEP ALUSURI
 <div align="center">
     📞 (656) 216-4402 | 📧 alusurigagandeep@gmail.com
     <br>
