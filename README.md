@@ -53,7 +53,7 @@
 
 - Utilized forecasting models to accurately predict student numbers with an average absolute percentage error of 3%, reducing the number of emergency food orders by 10% and making sure we can identify reasons for subscription renewal.
 - Applied R, Facebook's Prophet, and ARIMA models to analyze four years of USF Feed-a-Bull pantry survey data (2018-2022), yielding a precise forecast of a 25% upsurge in future visitor numbers post-pandemic.
-  ![P1](/assets/img/leimg.png)
+  ![assets/leimg.png](assets/leimg.png)
 
 **Predictive Modeling for Customer Churn**
 
