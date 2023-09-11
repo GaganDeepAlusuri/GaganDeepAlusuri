@@ -47,15 +47,14 @@
 
 - Conducted an exhaustive analysis of life expectancy disparities across US counties, employing advanced statistical methods (Using R) such as multiple regression and multi-level modeling. Uncovered a substantial average decrease of 11.3 years in life expectancy nationwide.
 - Determined statistically significant differences in life expectancy rates between various county-level socio-economic groups, including a 6.5-year gap between the highest and lowest quartiles.
- !(/assets/img/leimg.png)
+ <div align="center">
+    <img src="/assets/leimg.png" width="50%">
+</div>
 
 **Forecasting Student Numbers at Feed-A-Bull Food Pantry**
 
 - Utilized forecasting models to accurately predict student numbers with an average absolute percentage error of 3%, reducing the number of emergency food orders by 10% and making sure we can identify reasons for subscription renewal.
 - Applied R, Facebook's Prophet, and ARIMA models to analyze four years of USF Feed-a-Bull pantry survey data (2018-2022), yielding a precise forecast of a 25% upsurge in future visitor numbers post-pandemic.
-<div align="center">
-    <img src="/assets/leimg.png" width="50%">
-</div>
 
 **Predictive Modeling for Customer Churn**
 
