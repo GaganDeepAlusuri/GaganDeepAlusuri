@@ -40,7 +40,7 @@
 - Rigorously evaluated machine learning models, employing robust metrics and methodologies, certifying reliability and actionable insights.
 - Maintained meticulous documentation of data sources, methodologies, and code, enabling seamless knowledge sharing and ensuring reproducibility to maintain data integrity.
 - Effectively communicated intricate technical findings to team members and stakeholders through concise written and verbal presentations.
-
+  
 ## PROJECTS
 
 **Unveiling Disparities in Life Expectancy across US Counties: A Socio-Economic Analysis**
@@ -63,7 +63,7 @@
 
 - Developed a predictive model using Python to identify factors contributing to customer churn for a retail client.
 - Achieved an 85% accuracy rate in predicting customer churn, enabling proactive retention strategies.
-- [Read the Paper](https://www.ijsdr.org/viewpaperforall.php?paper=IJSDR2006011)
+
 
 **Data Visualization Dashboard on Commercial Corridors in St. Petersburg**
 
@@ -77,3 +77,6 @@
 
 - Designed and implemented a cloud-based data integration solution to consolidate data from multiple sources, resulting in a 30% reduction in data processing time.
 - Utilized AWS and Azure platforms for data storage and processing.
+  
+## Publications
+- Alusuri Venkata Sai Gagan Deep , Nikhita , Bindu Meghana , Giduthuri Dundi Venkata Bharath, Maheshwara Bhanu Yashwanth , S. Satyanarayana Desktop Voice Assistant(2020). https://www.ijsdr.org/viewpaperforall.php?paper=IJSDR2006011
