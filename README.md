@@ -57,7 +57,9 @@
 <div align="center">
     ![County wide Disparities in Life Expectancy](/assets/leimg.png)
 </div>
-
+<div align="center">
+    <img src="/assets/leimg.png" width="50%">
+</div>
 
 **Predictive Modeling for Customer Churn**
 
