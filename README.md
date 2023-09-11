@@ -1,4 +1,4 @@
-# VENKATA SAI GAGAN DEEP ALUSURI
+<div align="center"># VENKATA SAI GAGAN DEEP ALUSURI </div>
 
 <div align="center">
     📞 (656) 216-4402 | 📧 alusurigagandeep@gmail.com
@@ -65,7 +65,3 @@
 
 - Designed and implemented a cloud-based data integration solution to consolidate data from multiple sources, resulting in a 30% reduction in data processing time.
 - Utilized AWS and Azure platforms for data storage and processing.
-
-Feel free to reach out for collaboration, networking, or any inquiries.
-
-*Note: This README.md is a markdown representation of your resume for GitHub. You can use this as a template and customize it further as needed.*
