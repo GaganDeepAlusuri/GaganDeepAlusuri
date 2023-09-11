@@ -47,7 +47,7 @@
 
 - Conducted an exhaustive analysis of life expectancy disparities across US counties, employing advanced statistical methods (Using R) such as multiple regression and multi-level modeling. Uncovered a substantial average decrease of 11.3 years in life expectancy nationwide.
 - Determined statistically significant differences in life expectancy rates between various county-level socio-economic groups, including a 6.5-year gap between the highest and lowest quartiles.
- ![EEG Band Discovery](/assets/img/leimg.png)
+ !(/assets/img/leimg.png)
 
 **Forecasting Student Numbers at Feed-A-Bull Food Pantry**
 
